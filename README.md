@@ -10,11 +10,9 @@ Destroy an object
 
 # Examples of use #
 
-$ ./console.py
-(hbnb) help
-
-Documented commands (type help <topic>):
-========================================
+use the command ./console.py
+ (hbnb) help
+Documented commands (type help <topic>)
 EOF  help  quit
 
 (hbnb) 
